@@ -1,4 +1,8 @@
-# 🕵️ Apache Log File Analyzer
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Platform](https://img.shields.io/badge/Platform-Kali%20%7C%20Ubuntu-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+## 🕵️ Apache Log File Analyzer
 
 A Python script that analyzes Apache access.log files to extract useful insights such as:
 - Most frequent IP addresses
@@ -13,12 +17,12 @@ The script reads Apache access logs and uses regular expressions to extract data
 - Most common HTTP status codes
 - Most used user agents
 
-##  Files
+## 📂 Files
 - apache_analyzer.py: The main log analyzer script.
 - access.log: Sample Apache access log file.
 - README.md: This file you're reading now.
 
-##  Usage
+## 🚀 Usage
 
 1. Clone the repo or download the files:
    ```bash
@@ -32,7 +36,7 @@ python3 apache2_analyzer.py access.log
 --- Apache Log Analysis ---
 Total requests: 10000
 
-## Example Output
+## 💻Example Output
 Top 5 IP addresses:
 66.249.73.135: 482 requests
 46.105.14.53: 364 requests
@@ -59,14 +63,14 @@ Requests per day:
 /presentations/logstash-puppetconf-2012/images/office-space-printer-beat-down-gif.gif                                                                                                        
                                                                                        
 
-##  Learnings
+## 🧠 Learnings
 -  Working with Apache log formats
 -  Regez parsing in Python
 -  Counting frequency with collections.Counter
 -  Reading large text files efficiently
 
-#  License
+## 🛡️ License
  
-MIT License
+   MIT License
 
-Built by Reinhard1268
+Built 💻 by Reinhard1268
