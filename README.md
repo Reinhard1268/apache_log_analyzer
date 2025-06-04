@@ -1,4 +1,3 @@
-![Apache Log Analyzer Banner](A_banner_with_the_title_"Apache_Log_Analyzer"_is_d.png)
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Platform](https://img.shields.io/badge/Platform-Kali%20%7C%20Ubuntu-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active-success)
